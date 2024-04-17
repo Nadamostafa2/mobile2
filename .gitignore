@@ -1,0 +1,4 @@
+nodemodules
+test.txt
+*.pdf
+!text.pdf
